@@ -1,0 +1,6 @@
+{
+    "name": "Ejercicios ES6 ES5",
+    "description": "Aprender la diferencia entre ES6 y ES5",
+    "keywords ": "ES6,ES5",
+    "template": "parcel"
+}
